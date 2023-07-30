@@ -1,0 +1,1 @@
+# cpanel-.htaccess-file-edit-for-http-to-https
